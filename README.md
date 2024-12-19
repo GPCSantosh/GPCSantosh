@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web and Game Development.
 - 📫 How to reach me possible on weekends.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I can able to play any type of game within a week.
+- ⚡ Fun fact: I can able to learn how to play any type of game within a week.
 
 <!---
 GPCSantosh/GPCSantosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
